@@ -1,2 +1,2 @@
 # itc172
-Python Web Programming
+Web Programming with Python
